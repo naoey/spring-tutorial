@@ -1,0 +1,16 @@
+logs/
+target/
+
+# Secrets
+private/
+
+#IntelliJ
+.idea/
+dependency-reduced-pom.xml
+*.iml
+
+# OS crud
+.DS_Store
+Thumbs.db
+desktop.ini
+Icon*
